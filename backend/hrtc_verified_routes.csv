@@ -1,0 +1,961 @@
+origin,destination,distance_km,altitude_m,terrain,fleet_type,fleet_code,departure_hour,delay_minutes,duration_hours,fare_inr,depot
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,5,0,4.4,162,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,5,0,4.4,162,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,5,15,4.65,162,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,5,30,4.9,162,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,5,60,5.4,162,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,7,0,4.4,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,7,0,4.4,162,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,7,15,4.65,162,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,7,30,4.9,162,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,7,60,5.4,162,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,10,0,4.4,162,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,10,0,4.4,162,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,10,15,4.65,162,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,10,30,4.9,162,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,10,60,5.4,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,14,0,4.4,162,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,14,0,4.4,162,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,14,15,4.65,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,14,30,4.9,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,14,60,5.4,162,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,18,0,4.4,162,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,18,0,4.4,162,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,18,15,4.65,162,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,18,30,4.9,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,18,60,5.4,162,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,21,0,4.4,162,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,21,0,4.4,162,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,21,15,4.65,162,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,21,30,4.9,162,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Ordinary,0,21,60,5.4,162,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,5,0,3.69,235,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,5,0,3.69,235,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,5,15,3.94,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,5,30,4.19,235,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,5,60,4.69,235,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,7,0,3.69,235,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,7,0,3.69,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,7,15,3.94,235,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,7,30,4.19,235,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,7,60,4.69,235,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,10,0,3.69,235,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,10,0,3.69,235,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,10,15,3.94,235,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,10,30,4.19,235,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,10,60,4.69,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,14,0,3.69,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,14,0,3.69,235,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,14,15,3.94,235,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,14,30,4.19,235,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,14,60,4.69,235,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,18,0,3.69,235,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,18,0,3.69,235,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,18,15,3.94,235,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,18,30,4.19,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,18,60,4.69,235,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,21,0,3.69,235,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,21,0,3.69,235,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,21,15,3.94,235,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,21,30,4.19,235,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himgaura AC,1,21,60,4.69,235,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,5,0,3.35,358,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,5,0,3.35,358,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,5,15,3.6,358,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,5,30,3.85,358,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,5,60,4.35,358,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,7,0,3.35,358,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,7,0,3.35,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,7,15,3.6,358,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,7,30,3.85,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,7,60,4.35,358,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,10,0,3.35,358,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,10,0,3.35,358,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,10,15,3.6,358,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,10,30,3.85,358,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,10,60,4.35,358,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,14,0,3.35,358,HP-02
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,14,0,3.35,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,14,15,3.6,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,14,30,3.85,358,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,14,60,4.35,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,18,0,3.35,358,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,18,0,3.35,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,18,15,3.6,358,HP-63
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,18,30,3.85,358,HP-67
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,18,60,4.35,358,HP-65
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,21,0,3.35,358,HP-03
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,21,0,3.35,358,HP-64
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,21,15,3.6,358,HP-01
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,21,30,3.85,358,HP-07
+Chandigarh,Shimla,112,2276,National Highway,HRTC Himsuta Volvo,2,21,60,4.35,358,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,5,0,8.97,348,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,5,0,8.97,348,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,5,15,9.22,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,5,30,9.47,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,5,60,9.97,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,7,0,8.97,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,7,0,8.97,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,7,15,9.22,348,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,7,30,9.47,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,7,60,9.97,348,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,10,0,8.97,348,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,10,0,8.97,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,10,15,9.22,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,10,30,9.47,348,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,10,60,9.97,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,14,0,8.97,348,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,14,0,8.97,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,14,15,9.22,348,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,14,30,9.47,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,14,60,9.97,348,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,18,0,8.97,348,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,18,0,8.97,348,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,18,15,9.22,348,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,18,30,9.47,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,18,60,9.97,348,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,21,0,8.97,348,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,21,0,8.97,348,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,21,15,9.22,348,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,21,30,9.47,348,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Ordinary,0,21,60,9.97,348,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,5,0,7.46,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,5,0,7.46,504,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,5,15,7.71,504,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,5,30,7.96,504,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,5,60,8.46,504,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,7,0,7.46,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,7,0,7.46,504,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,7,15,7.71,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,7,30,7.96,504,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,7,60,8.46,504,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,10,0,7.46,504,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,10,0,7.46,504,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,10,15,7.71,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,10,30,7.96,504,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,10,60,8.46,504,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,14,0,7.46,504,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,14,0,7.46,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,14,15,7.71,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,14,30,7.96,504,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,14,60,8.46,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,18,0,7.46,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,18,0,7.46,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,18,15,7.71,504,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,18,30,7.96,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,18,60,8.46,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,21,0,7.46,504,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,21,0,7.46,504,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,21,15,7.71,504,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,21,30,7.96,504,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himgaura AC,1,21,60,8.46,504,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,5,0,6.72,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,5,0,6.72,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,5,15,6.97,768,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,5,30,7.22,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,5,60,7.72,768,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,7,0,6.72,768,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,7,0,6.72,768,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,7,15,6.97,768,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,7,30,7.22,768,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,7,60,7.72,768,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,10,0,6.72,768,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,10,0,6.72,768,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,10,15,6.97,768,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,10,30,7.22,768,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,10,60,7.72,768,HP-02
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,14,0,6.72,768,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,14,0,6.72,768,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,14,15,6.97,768,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,14,30,7.22,768,HP-65
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,14,60,7.72,768,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,18,0,6.72,768,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,18,0,6.72,768,HP-63
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,18,15,6.97,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,18,30,7.22,768,HP-07
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,18,60,7.72,768,HP-67
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,21,0,6.72,768,HP-64
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,21,0,6.72,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,21,15,6.97,768,HP-03
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,21,30,7.22,768,HP-01
+Chandigarh,Dharamshala,240,1457,State Highway,HRTC Himsuta Volvo,2,21,60,7.72,768,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,5,0,11.47,449,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,5,0,11.47,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,5,15,11.72,449,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,5,30,11.97,449,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,5,60,12.47,449,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,7,0,11.47,449,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,7,0,11.47,449,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,7,15,11.72,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,7,30,11.97,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,7,60,12.47,449,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,10,0,11.47,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,10,0,11.47,449,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,10,15,11.72,449,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,10,30,11.97,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,10,60,12.47,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,14,0,11.47,449,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,14,0,11.47,449,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,14,15,11.72,449,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,14,30,11.97,449,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,14,60,12.47,449,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,18,0,11.47,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,18,0,11.47,449,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,18,15,11.72,449,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,18,30,11.97,449,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,18,60,12.47,449,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,21,0,11.47,449,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,21,0,11.47,449,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,21,15,11.72,449,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,21,30,11.97,449,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Ordinary,0,21,60,12.47,449,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,5,0,9.52,651,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,5,0,9.52,651,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,5,15,9.77,651,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,5,30,10.02,651,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,5,60,10.52,651,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,7,0,9.52,651,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,7,0,9.52,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,7,15,9.77,651,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,7,30,10.02,651,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,7,60,10.52,651,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,10,0,9.52,651,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,10,0,9.52,651,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,10,15,9.77,651,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,10,30,10.02,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,10,60,10.52,651,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,14,0,9.52,651,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,14,0,9.52,651,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,14,15,9.77,651,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,14,30,10.02,651,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,14,60,10.52,651,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,18,0,9.52,651,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,18,0,9.52,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,18,15,9.77,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,18,30,10.02,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,18,60,10.52,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,21,0,9.52,651,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,21,0,9.52,651,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,21,15,9.77,651,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,21,30,10.02,651,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himgaura AC,1,21,60,10.52,651,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,5,0,8.56,992,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,5,0,8.56,992,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,5,15,8.81,992,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,5,30,9.06,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,5,60,9.56,992,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,7,0,8.56,992,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,7,0,8.56,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,7,15,8.81,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,7,30,9.06,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,7,60,9.56,992,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,10,0,8.56,992,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,10,0,8.56,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,10,15,8.81,992,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,10,30,9.06,992,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,10,60,9.56,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,14,0,8.56,992,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,14,0,8.56,992,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,14,15,8.81,992,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,14,30,9.06,992,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,14,60,9.56,992,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,18,0,8.56,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,18,0,8.56,992,HP-64
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,18,15,8.81,992,HP-63
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,18,30,9.06,992,HP-01
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,18,60,9.56,992,HP-03
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,21,0,8.56,992,HP-02
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,21,0,8.56,992,HP-07
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,21,15,8.81,992,HP-67
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,21,30,9.06,992,HP-65
+Chandigarh,Manali,310,2050,National Highway,HRTC Himsuta Volvo,2,21,60,9.56,992,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,5,0,6.83,261,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,5,0,6.83,261,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,5,15,7.08,261,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,5,30,7.33,261,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,5,60,7.83,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,7,0,6.83,261,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,7,0,6.83,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,7,15,7.08,261,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,7,30,7.33,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,7,60,7.83,261,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,10,0,6.83,261,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,10,0,6.83,261,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,10,15,7.08,261,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,10,30,7.33,261,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,10,60,7.83,261,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,14,0,6.83,261,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,14,0,6.83,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,14,15,7.08,261,HP-63
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,14,30,7.33,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,14,60,7.83,261,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,18,0,6.83,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,18,0,6.83,261,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,18,15,7.08,261,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,18,30,7.33,261,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,18,60,7.83,261,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,21,0,6.83,261,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,21,0,6.83,261,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,21,15,7.08,261,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,21,30,7.33,261,HP-63
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Ordinary,0,21,60,7.83,261,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,5,0,5.69,378,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,5,0,5.69,378,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,5,15,5.94,378,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,5,30,6.19,378,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,5,60,6.69,378,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,7,0,5.69,378,HP-63
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,7,0,5.69,378,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,7,15,5.94,378,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,7,30,6.19,378,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,7,60,6.69,378,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,10,0,5.69,378,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,10,0,5.69,378,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,10,15,5.94,378,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,10,30,6.19,378,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,10,60,6.69,378,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,14,0,5.69,378,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,14,0,5.69,378,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,14,15,5.94,378,HP-01
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,14,30,6.19,378,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,14,60,6.69,378,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,18,0,5.69,378,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,18,0,5.69,378,HP-63
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,18,15,5.94,378,HP-07
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,18,30,6.19,378,HP-02
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,18,60,6.69,378,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,21,0,5.69,378,HP-64
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,21,0,5.69,378,HP-03
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,21,15,5.94,378,HP-65
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,21,30,6.19,378,HP-67
+Chandigarh,Hamirpur,180,780,Lower Hill,HRTC Himgaura AC,1,21,60,6.69,378,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,5,0,12.72,500,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,5,0,12.72,500,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,5,15,12.97,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,5,30,13.22,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,5,60,13.72,500,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,7,0,12.72,500,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,7,0,12.72,500,HP-63
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,7,15,12.97,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,7,30,13.22,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,7,60,13.72,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,10,0,12.72,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,10,0,12.72,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,10,15,12.97,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,10,30,13.22,500,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,10,60,13.72,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,14,0,12.72,500,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,14,0,12.72,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,14,15,12.97,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,14,30,13.22,500,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,14,60,13.72,500,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,18,0,12.72,500,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,18,0,12.72,500,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,18,15,12.97,500,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,18,30,13.22,500,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,18,60,13.72,500,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,21,0,12.72,500,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,21,0,12.72,500,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,21,15,12.97,500,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,21,30,13.22,500,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Ordinary,0,21,60,13.72,500,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,5,0,10.55,724,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,5,0,10.55,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,5,15,10.8,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,5,30,11.05,724,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,5,60,11.55,724,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,7,0,10.55,724,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,7,0,10.55,724,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,7,15,10.8,724,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,7,30,11.05,724,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,7,60,11.55,724,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,10,0,10.55,724,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,10,0,10.55,724,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,10,15,10.8,724,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,10,30,11.05,724,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,10,60,11.55,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,14,0,10.55,724,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,14,0,10.55,724,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,14,15,10.8,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,14,30,11.05,724,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,14,60,11.55,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,18,0,10.55,724,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,18,0,10.55,724,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,18,15,10.8,724,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,18,30,11.05,724,HP-63
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,18,60,11.55,724,HP-63
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,21,0,10.55,724,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,21,0,10.55,724,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,21,15,10.8,724,HP-65
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,21,30,11.05,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himgaura AC,1,21,60,11.55,724,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,5,0,9.48,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,5,0,9.48,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,5,15,9.73,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,5,30,9.98,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,5,60,10.48,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,7,0,9.48,1104,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,7,0,9.48,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,7,15,9.73,1104,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,7,30,9.98,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,7,60,10.48,1104,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,10,0,9.48,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,10,0,9.48,1104,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,10,15,9.73,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,10,30,9.98,1104,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,10,60,10.48,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,14,0,9.48,1104,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,14,0,9.48,1104,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,14,15,9.73,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,14,30,9.98,1104,HP-07
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,14,60,10.48,1104,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,18,0,9.48,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,18,0,9.48,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,18,15,9.73,1104,HP-64
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,18,30,9.98,1104,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,18,60,10.48,1104,HP-03
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,21,0,9.48,1104,HP-01
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,21,0,9.48,1104,HP-63
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,21,15,9.73,1104,HP-02
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,21,30,9.98,1104,HP-67
+Delhi,Shimla,345,2276,National Highway,HRTC Himsuta Volvo,2,21,60,10.48,1104,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,5,0,19.69,783,HP-02
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,5,0,19.69,783,HP-02
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,5,15,19.94,783,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,5,30,20.19,783,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,5,60,20.69,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,7,0,19.69,783,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,7,0,19.69,783,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,7,15,19.94,783,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,7,30,20.19,783,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,7,60,20.69,783,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,10,0,19.69,783,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,10,0,19.69,783,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,10,15,19.94,783,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,10,30,20.19,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,10,60,20.69,783,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,14,0,19.69,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,14,0,19.69,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,14,15,19.94,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,14,30,20.19,783,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,14,60,20.69,783,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,18,0,19.69,783,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,18,0,19.69,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,18,15,19.94,783,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,18,30,20.19,783,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,18,60,20.69,783,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,21,0,19.69,783,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,21,0,19.69,783,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,21,15,19.94,783,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,21,30,20.19,783,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Ordinary,0,21,60,20.69,783,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,5,0,16.28,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,5,0,16.28,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,5,15,16.53,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,5,30,16.78,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,5,60,17.28,1134,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,7,0,16.28,1134,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,7,0,16.28,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,7,15,16.53,1134,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,7,30,16.78,1134,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,7,60,17.28,1134,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,10,0,16.28,1134,HP-02
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,10,0,16.28,1134,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,10,15,16.53,1134,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,10,30,16.78,1134,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,10,60,17.28,1134,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,14,0,16.28,1134,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,14,0,16.28,1134,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,14,15,16.53,1134,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,14,30,16.78,1134,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,14,60,17.28,1134,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,18,0,16.28,1134,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,18,0,16.28,1134,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,18,15,16.53,1134,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,18,30,16.78,1134,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,18,60,17.28,1134,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,21,0,16.28,1134,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,21,0,16.28,1134,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,21,15,16.53,1134,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,21,30,16.78,1134,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himgaura AC,1,21,60,17.28,1134,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,5,0,14.61,1728,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,5,0,14.61,1728,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,5,15,14.86,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,5,30,15.11,1728,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,5,60,15.61,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,7,0,14.61,1728,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,7,0,14.61,1728,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,7,15,14.86,1728,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,7,30,15.11,1728,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,7,60,15.61,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,10,0,14.61,1728,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,10,0,14.61,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,10,15,14.86,1728,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,10,30,15.11,1728,HP-64
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,10,60,15.61,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,14,0,14.61,1728,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,14,0,14.61,1728,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,14,15,14.86,1728,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,14,30,15.11,1728,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,14,60,15.61,1728,HP-07
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,18,0,14.61,1728,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,18,0,14.61,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,18,15,14.86,1728,HP-63
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,18,30,15.11,1728,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,18,60,15.61,1728,HP-65
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,21,0,14.61,1728,HP-01
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,21,0,14.61,1728,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,21,15,14.86,1728,HP-03
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,21,30,15.11,1728,HP-67
+Delhi,Manali,540,2050,National Highway,HRTC Himsuta Volvo,2,21,60,15.61,1728,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,5,0,9.15,355,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,5,0,9.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,5,15,9.4,355,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,5,30,9.65,355,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,5,60,10.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,7,0,9.15,355,HP-03
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,7,0,9.15,355,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,7,15,9.4,355,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,7,30,9.65,355,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,7,60,10.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,10,0,9.15,355,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,10,0,9.15,355,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,10,15,9.4,355,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,10,30,9.65,355,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,10,60,10.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,14,0,9.15,355,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,14,0,9.15,355,HP-03
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,14,15,9.4,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,14,30,9.65,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,14,60,10.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,18,0,9.15,355,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,18,0,9.15,355,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,18,15,9.4,355,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,18,30,9.65,355,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,18,60,10.15,355,HP-03
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,21,0,9.15,355,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,21,0,9.15,355,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,21,15,9.4,355,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,21,30,9.65,355,HP-63
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Ordinary,0,21,60,10.15,355,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,5,0,7.61,514,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,5,0,7.61,514,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,5,15,7.86,514,HP-03
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,5,30,8.11,514,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,5,60,8.61,514,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,7,0,7.61,514,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,7,0,7.61,514,HP-63
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,7,15,7.86,514,HP-07
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,7,30,8.11,514,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,7,60,8.61,514,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,10,0,7.61,514,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,10,0,7.61,514,HP-07
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,10,15,7.86,514,HP-63
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,10,30,8.11,514,HP-07
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,10,60,8.61,514,HP-01
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,14,0,7.61,514,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,14,0,7.61,514,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,14,15,7.86,514,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,14,30,8.11,514,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,14,60,8.61,514,HP-64
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,18,0,7.61,514,HP-07
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,18,0,7.61,514,HP-03
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,18,15,7.86,514,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,18,30,8.11,514,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,18,60,8.61,514,HP-07
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,21,0,7.61,514,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,21,0,7.61,514,HP-02
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,21,15,7.86,514,HP-67
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,21,30,8.11,514,HP-65
+Shimla,Manali,245,2050,Mountain Arterial,HRTC Himgaura AC,1,21,60,8.61,514,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,5,0,5.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,5,0,5.4,203,HP-03
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,5,15,5.65,203,HP-01
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,5,30,5.9,203,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,5,60,6.4,203,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,7,0,5.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,7,0,5.4,203,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,7,15,5.65,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,7,30,5.9,203,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,7,60,6.4,203,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,10,0,5.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,10,0,5.4,203,HP-01
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,10,15,5.65,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,10,30,5.9,203,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,10,60,6.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,14,0,5.4,203,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,14,0,5.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,14,15,5.65,203,HP-03
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,14,30,5.9,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,14,60,6.4,203,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,18,0,5.4,203,HP-01
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,18,0,5.4,203,HP-67
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,18,15,5.65,203,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,18,30,5.9,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,18,60,6.4,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,21,0,5.4,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,21,0,5.4,203,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,21,15,5.65,203,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,21,30,5.9,203,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Ordinary,0,21,60,6.4,203,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,5,0,4.52,294,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,5,0,4.52,294,HP-67
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,5,15,4.77,294,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,5,30,5.02,294,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,5,60,5.52,294,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,7,0,4.52,294,HP-03
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,7,0,4.52,294,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,7,15,4.77,294,HP-67
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,7,30,5.02,294,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,7,60,5.52,294,HP-67
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,10,0,4.52,294,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,10,0,4.52,294,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,10,15,4.77,294,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,10,30,5.02,294,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,10,60,5.52,294,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,14,0,4.52,294,HP-03
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,14,0,4.52,294,HP-01
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,14,15,4.77,294,HP-67
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,14,30,5.02,294,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,14,60,5.52,294,HP-03
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,18,0,4.52,294,HP-07
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,18,0,4.52,294,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,18,15,4.77,294,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,18,30,5.02,294,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,18,60,5.52,294,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,21,0,4.52,294,HP-02
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,21,0,4.52,294,HP-63
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,21,15,4.77,294,HP-64
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,21,30,5.02,294,HP-65
+Shimla,Mandi,140,850,Mountain Arterial,HRTC Himgaura AC,1,21,60,5.52,294,HP-65
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,5,0,12.54,493,HP-01
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,5,0,12.54,493,HP-07
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,5,15,12.79,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,5,30,13.04,493,HP-01
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,5,60,13.54,493,HP-02
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,7,0,12.54,493,HP-02
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,7,0,12.54,493,HP-01
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,7,15,12.79,493,HP-65
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,7,30,13.04,493,HP-02
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,7,60,13.54,493,HP-67
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,10,0,12.54,493,HP-64
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,10,0,12.54,493,HP-64
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,10,15,12.79,493,HP-67
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,10,30,13.04,493,HP-01
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,10,60,13.54,493,HP-67
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,14,0,12.54,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,14,0,12.54,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,14,15,12.79,493,HP-01
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,14,30,13.04,493,HP-67
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,14,60,13.54,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,18,0,12.54,493,HP-65
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,18,0,12.54,493,HP-67
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,18,15,12.79,493,HP-65
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,18,30,13.04,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,18,60,13.54,493,HP-64
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,21,0,12.54,493,HP-63
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,21,0,12.54,493,HP-65
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,21,15,12.79,493,HP-03
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,21,30,13.04,493,HP-07
+Shimla,Chamba,340,1006,High Mountain,HRTC Ordinary,0,21,60,13.54,493,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,5,0,2.9,101,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,5,0,2.9,101,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,5,15,3.15,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,5,30,3.4,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,5,60,3.9,101,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,7,0,2.9,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,7,0,2.9,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,7,15,3.15,101,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,7,30,3.4,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,7,60,3.9,101,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,10,0,2.9,101,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,10,0,2.9,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,10,15,3.15,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,10,30,3.4,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,10,60,3.9,101,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,14,0,2.9,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,14,0,2.9,101,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,14,15,3.15,101,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,14,30,3.4,101,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,14,60,3.9,101,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,18,0,2.9,101,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,18,0,2.9,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,18,15,3.15,101,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,18,30,3.4,101,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,18,60,3.9,101,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,21,0,2.9,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,21,0,2.9,101,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,21,15,3.15,101,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,21,30,3.4,101,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Ordinary,0,21,60,3.9,101,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,5,0,2.46,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,5,0,2.46,147,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,5,15,2.71,147,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,5,30,2.96,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,5,60,3.46,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,7,0,2.46,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,7,0,2.46,147,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,7,15,2.71,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,7,30,2.96,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,7,60,3.46,147,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,10,0,2.46,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,10,0,2.46,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,10,15,2.71,147,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,10,30,2.96,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,10,60,3.46,147,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,14,0,2.46,147,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,14,0,2.46,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,14,15,2.71,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,14,30,2.96,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,14,60,3.46,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,18,0,2.46,147,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,18,0,2.46,147,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,18,15,2.71,147,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,18,30,2.96,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,18,60,3.46,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,21,0,2.46,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,21,0,2.46,147,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,21,15,2.71,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,21,30,2.96,147,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himgaura AC,1,21,60,3.46,147,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,5,0,2.24,224,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,5,0,2.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,5,15,2.49,224,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,5,30,2.74,224,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,5,60,3.24,224,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,7,0,2.24,224,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,7,0,2.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,7,15,2.49,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,7,30,2.74,224,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,7,60,3.24,224,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,10,0,2.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,10,0,2.24,224,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,10,15,2.49,224,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,10,30,2.74,224,HP-67
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,10,60,3.24,224,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,14,0,2.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,14,0,2.24,224,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,14,15,2.49,224,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,14,30,2.74,224,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,14,60,3.24,224,HP-07
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,18,0,2.24,224,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,18,0,2.24,224,HP-64
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,18,15,2.49,224,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,18,30,2.74,224,HP-63
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,18,60,3.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,21,0,2.24,224,HP-02
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,21,0,2.24,224,HP-03
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,21,15,2.49,224,HP-65
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,21,30,2.74,224,HP-01
+Mandi,Kullu,70,1279,Valley,HRTC Himsuta Volvo,2,21,60,3.24,224,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,5,0,5.04,188,HP-67
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,5,0,5.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,5,15,5.29,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,5,30,5.54,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,5,60,6.04,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,7,0,5.04,188,HP-64
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,7,0,5.04,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,7,15,5.29,188,HP-03
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,7,30,5.54,188,HP-01
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,7,60,6.04,188,HP-65
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,10,0,5.04,188,HP-07
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,10,0,5.04,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,10,15,5.29,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,10,30,5.54,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,10,60,6.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,14,0,5.04,188,HP-03
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,14,0,5.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,14,15,5.29,188,HP-67
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,14,30,5.54,188,HP-07
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,14,60,6.04,188,HP-01
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,18,0,5.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,18,0,5.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,18,15,5.29,188,HP-01
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,18,30,5.54,188,HP-07
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,18,60,6.04,188,HP-02
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,21,0,5.04,188,HP-63
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,21,0,5.04,188,HP-01
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,21,15,5.29,188,HP-67
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,21,30,5.54,188,HP-67
+Dharamshala,Chamba,130,1006,Mountain Road,HRTC Ordinary,0,21,60,6.04,188,HP-03
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,5,0,8.44,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,5,0,8.44,326,HP-03
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,5,15,8.69,326,HP-67
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,5,30,8.94,326,HP-07
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,5,60,9.44,326,HP-02
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,7,0,8.44,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,7,0,8.44,326,HP-65
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,7,15,8.69,326,HP-67
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,7,30,8.94,326,HP-67
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,7,60,9.44,326,HP-65
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,10,0,8.44,326,HP-64
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,10,0,8.44,326,HP-67
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,10,15,8.69,326,HP-63
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,10,30,8.94,326,HP-07
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,10,60,9.44,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,14,0,8.44,326,HP-65
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,14,0,8.44,326,HP-63
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,14,15,8.69,326,HP-65
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,14,30,8.94,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,14,60,9.44,326,HP-03
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,18,0,8.44,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,18,0,8.44,326,HP-64
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,18,15,8.69,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,18,30,8.94,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,18,60,9.44,326,HP-64
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,21,0,8.44,326,HP-07
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,21,0,8.44,326,HP-67
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,21,15,8.69,326,HP-01
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,21,30,8.94,326,HP-64
+Shimla,Reckong Peo,225,2290,Kinnaur Gorge,HRTC Ordinary,0,21,60,9.44,326,HP-63
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,5,0,16.62,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,5,0,16.62,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,5,15,16.87,601,HP-01
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,5,30,17.12,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,5,60,17.62,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,7,0,16.62,601,HP-63
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,7,0,16.62,601,HP-01
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,7,15,16.87,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,7,30,17.12,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,7,60,17.62,601,HP-01
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,10,0,16.62,601,HP-65
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,10,0,16.62,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,10,15,16.87,601,HP-64
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,10,30,17.12,601,HP-65
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,10,60,17.62,601,HP-67
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,14,0,16.62,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,14,0,16.62,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,14,15,16.87,601,HP-02
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,14,30,17.12,601,HP-65
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,14,60,17.62,601,HP-67
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,18,0,16.62,601,HP-63
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,18,0,16.62,601,HP-63
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,18,15,16.87,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,18,30,17.12,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,18,60,17.62,601,HP-01
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,21,0,16.62,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,21,0,16.62,601,HP-03
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,21,15,16.87,601,HP-63
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,21,30,17.12,601,HP-07
+Shimla,Kaza,415,3800,Spiti Trans-Himalayan,HRTC Ordinary,0,21,60,17.62,601,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,5,0,8.94,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,5,0,8.94,290,HP-67
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,5,15,9.19,290,HP-01
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,5,30,9.44,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,5,60,9.94,290,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,7,0,8.94,290,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,7,0,8.94,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,7,15,9.19,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,7,30,9.44,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,7,60,9.94,290,HP-64
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,10,0,8.94,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,10,0,8.94,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,10,15,9.19,290,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,10,30,9.44,290,HP-03
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,10,60,9.94,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,14,0,8.94,290,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,14,0,8.94,290,HP-03
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,14,15,9.19,290,HP-03
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,14,30,9.44,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,14,60,9.94,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,18,0,8.94,290,HP-07
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,18,0,8.94,290,HP-01
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,18,15,9.19,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,18,30,9.44,290,HP-02
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,18,60,9.94,290,HP-07
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,21,0,8.94,290,HP-01
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,21,0,8.94,290,HP-63
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,21,15,9.19,290,HP-64
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,21,30,9.44,290,HP-65
+Manali,Kaza,200,3800,Kunzum Pass High Alpine,HRTC Ordinary,0,21,60,9.94,290,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,5,0,2.94,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,5,0,2.94,102,HP-67
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,5,15,3.19,102,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,5,30,3.44,102,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,5,60,3.94,102,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,7,0,2.94,102,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,7,0,2.94,102,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,7,15,3.19,102,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,7,30,3.44,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,7,60,3.94,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,10,0,2.94,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,10,0,2.94,102,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,10,15,3.19,102,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,10,30,3.44,102,HP-67
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,10,60,3.94,102,HP-67
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,14,0,2.94,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,14,0,2.94,102,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,14,15,3.19,102,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,14,30,3.44,102,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,14,60,3.94,102,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,18,0,2.94,102,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,18,0,2.94,102,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,18,15,3.19,102,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,18,30,3.44,102,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,18,60,3.94,102,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,21,0,2.94,102,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,21,0,2.94,102,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,21,15,3.19,102,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,21,30,3.44,102,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Ordinary,0,21,60,3.94,102,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,5,0,2.49,149,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,5,0,2.49,149,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,5,15,2.74,149,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,5,30,2.99,149,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,5,60,3.49,149,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,7,0,2.49,149,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,7,0,2.49,149,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,7,15,2.74,149,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,7,30,2.99,149,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,7,60,3.49,149,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,10,0,2.49,149,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,10,0,2.49,149,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,10,15,2.74,149,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,10,30,2.99,149,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,10,60,3.49,149,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,14,0,2.49,149,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,14,0,2.49,149,HP-02
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,14,15,2.74,149,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,14,30,2.99,149,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,14,60,3.49,149,HP-67
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,18,0,2.49,149,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,18,0,2.49,149,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,18,15,2.74,149,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,18,30,2.99,149,HP-65
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,18,60,3.49,149,HP-01
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,21,0,2.49,149,HP-03
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,21,0,2.49,149,HP-63
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,21,15,2.74,149,HP-07
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,21,30,2.99,149,HP-64
+Manali,Keylong,71,3080,Atal Tunnel Corridor,HRTC Himgaura AC,1,21,60,3.49,149,HP-01
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,5,0,7.87,246,HP-65
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,5,0,7.87,246,HP-07
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,5,15,8.12,246,HP-01
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,5,30,8.37,246,HP-01
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,5,60,8.87,246,HP-67
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,7,0,7.87,246,HP-01
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,7,0,7.87,246,HP-64
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,7,15,8.12,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,7,30,8.37,246,HP-64
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,7,60,8.87,246,HP-02
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,10,0,7.87,246,HP-07
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,10,0,7.87,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,10,15,8.12,246,HP-67
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,10,30,8.37,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,10,60,8.87,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,14,0,7.87,246,HP-65
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,14,0,7.87,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,14,15,8.12,246,HP-67
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,14,30,8.37,246,HP-64
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,14,60,8.87,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,18,0,7.87,246,HP-03
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,18,0,7.87,246,HP-07
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,18,15,8.12,246,HP-63
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,18,30,8.37,246,HP-07
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,18,60,8.87,246,HP-03
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,21,0,7.87,246,HP-03
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,21,0,7.87,246,HP-07
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,21,15,8.12,246,HP-01
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,21,30,8.37,246,HP-02
+Chamba,Killar (Pangi),170,2600,Sach Pass Rough Cut,HRTC Ordinary,0,21,60,8.87,246,HP-65
