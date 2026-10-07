@@ -10,7 +10,8 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-const API_BASE = 'http://127.0.0.1:5000/api';
+// UPDATED TO POINT TO LIVE RENDER BACKEND
+const API_BASE = 'https://hp-trip-maker-backend.onrender.com/api';
 
 function ChangeMapView({ bounds }) {
   const map = useMap();
